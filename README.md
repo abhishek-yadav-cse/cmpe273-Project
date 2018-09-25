@@ -1,2 +1,6 @@
 # cmpe273-Project
-Repository for CMPE273
+
+
+Used Blockchain to register products. Implemented Proof of Work, Consensus and RCA encryption algorithm.
+
+
